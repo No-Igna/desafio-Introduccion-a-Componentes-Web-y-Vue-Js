@@ -1,5 +1,5 @@
-# Vue 3 + Vite
+# Desafío evaluado - Introducción a Componentes Web y Vue Js
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Para poder ver este desafio desplegado visitar el siguiente enlace:
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+https://no-igna.github.io/desafio-Introduccion-a-Componentes-Web-y-Vue-Js/
